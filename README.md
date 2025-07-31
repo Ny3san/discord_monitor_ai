@@ -1,1 +1,3 @@
-# discord_monitor_ai
+# Discord Monitor AI
+
+## Instalação
